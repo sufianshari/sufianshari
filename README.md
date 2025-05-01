@@ -7,6 +7,7 @@
 Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencintai dunia teknologi dan inovasi. Dengan pengalaman di berbagai proyek mulai dari aplikasi web responsif hingga aplikasi mobile lintas platform, saya selalu berusaha menghadirkan solusi yang **user-friendly**, **scalable**, dan **estetis**.  
 
 🔧 **Teknologi Favorit**:
+
 <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
 <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
