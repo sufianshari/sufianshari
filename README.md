@@ -6,17 +6,10 @@
 ## 🧠 Tentang Saya  
 Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencintai dunia teknologi dan inovasi. Dengan pengalaman di berbagai proyek mulai dari aplikasi web responsif hingga aplikasi mobile lintas platform, saya selalu berusaha menghadirkan solusi yang **user-friendly**, **scalable**, dan **estetis**.  
 
-🔧 **Teknologi Favorit**:  
-- HTML5  
-- CSS3  
-- JavaScript  
-- React  
-- Node.js  
-- Flutter  
-- Dart  
-- Firebase  
-- REST API  
-- MongoDB  
+🔧 **Teknologi Favorit**:
+<img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
+<img src="https://img.shields.io/badge/Dart-0175C2?style=for-the-badge&logo=dart&logoColor=white" />
+<img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" />
 
 ---
 
@@ -53,12 +46,6 @@ Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencin
 ![Top Lang](https://img.shields.io/github/languages/top/sufianshari/nama-repo)
 
 ---
-
-## 🔥 Tips Tambahan  
-1. Gunakan **README.md** dinamis dengan animasi atau informasi real-time (misal: jumlah commit, bahasa terbanyak).  
-2. Tambahkan **badge** seperti:  
-   ```markdown
-   [![Top Lang](https://img.shields.io/github/languages/top/nama-kamu/nama-repo)](https://github.com/nama-kamu/nama-repo)
    
 
 <!--
