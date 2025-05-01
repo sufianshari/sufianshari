@@ -38,8 +38,8 @@ Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencin
 
 ## 📬 Hubungi Saya  
 - 📧 Email: [muhammad.anshari16@gmail.com](mailto:muhammad.anshari16@gmail.com)  
-- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-anshari/]([https://www.linkedin.com/in/muhammad-anshari/])  
-- 📱 Instagram: [@sufi.anshari]([https://www.instagram.com/sufi.anshari/])  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-anshari/](https://www.linkedin.com/in/muhammad-anshari/)  
+- 📱 Instagram: [@sufi.anshari](https://www.instagram.com/sufi.anshari/)  
 
 ---
 
@@ -49,8 +49,8 @@ Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencin
 ---
 
 ## 📊 Statistik Profil (Opsional)  
-![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=namakamu&show_icons=true&theme=radical)  
-![Top Lang](https://img.shields.io/github/languages/top/nama-kamu/nama-repo)
+![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=sufianshari&show_icons=true&theme=radical)  
+![Top Lang](https://img.shields.io/github/languages/top/sufianshari/nama-repo)
 
 ---
 
