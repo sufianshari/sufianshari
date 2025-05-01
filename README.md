@@ -1,4 +1,4 @@
-# 👋 Halo! Saya [Nama Anda]  
+# 👋 Halo! Saya Muhammad Anshari  
 **Web Developer & Flutter Enthuasiast** | 🎯 Membangun solusi kreatif dengan kode yang bersih dan efisien  
 
 ---
@@ -20,22 +20,6 @@ Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencin
 
 ---
 
-## 🚀 Proyek Unggulan  
-
-### 1. **Aplikasi Manajemen Keuangan Mobile** (Flutter)  
-- Aplikasi mobile lintas platform untuk pelacakan pengeluaran harian dengan integrasi grafik interaktif.  
-- Teknologi: Flutter, Firebase, Chart.js  
-- 🔗 [Link ke repo](https://github.com/nama-kamu/repo-keuangan) | 📱 [Demo Video](https://youtube.com/video-keuangan)  
-
-### 2. **Sistem Informasi Kampus** (Web Full-Stack)  
-- Aplikasi web untuk manajemen data mahasiswa dan akademik menggunakan arsitektur MVC.  
-- Teknologi: PHP, MySQL, Bootstrap, JavaScript  
-- 🔗 [Link ke repo](https://github.com/nama-kamu/repo-kampus) | 🖥️ [Live Demo](https://demo-kampus.com)  
-
-*Lihat lebih banyak proyek di [halaman ini](https://github.com/nama-kamu?tab=repositories) atau kunjungi tab "Repositories".*  
-
----
-
 ## 💡 Keterampilan & Tools  
 - **Frontend**: React, Vue.js, Tailwind CSS  
 - **Backend**: Node.js, Express, REST API  
@@ -53,10 +37,9 @@ Saya seorang **pengembang web full-stack** dan **Flutter developer** yang mencin
 ---
 
 ## 📬 Hubungi Saya  
-- 📧 Email: [email@example.com](mailto:email@example.com)  
-- 🌐 LinkedIn: [linkedin.com/in/nama-anda](https://linkedin.com/in/nama-anda)  
-- 🐦 Twitter: [@username](https://twitter.com/username)  
-- 📱 Instagram: [@username](https://instagram.com/username)  
+- 📧 Email: [muhammad.anshari16@gmail.com](mailto:muhammad.anshari16@gmail.com)  
+- 🌐 LinkedIn: [https://www.linkedin.com/in/muhammad-anshari/]([https://www.linkedin.com/in/muhammad-anshari/])  
+- 📱 Instagram: [@sufi.anshari]([https://www.instagram.com/sufi.anshari/])  
 
 ---
 
